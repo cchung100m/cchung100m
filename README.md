@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m interested in distributed systems and system software.
-- 🔭 I’m currently working on [Apache Uniffle](https://github.com/apache/incubator-uniffle).
-- ❤️ I enjoy being a member of the open-source community.
+- I’m interested in machine learning, data engineering, and distributed systems.
 
 <!--
 **cchung100m/cchung100m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
