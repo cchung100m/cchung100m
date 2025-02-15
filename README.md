@@ -1,8 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cchung100m&show_icons=true&theme=buefy" />
+
 ### Hi there 👋
 
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cchung100m&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+- 🌱 I’m interested in distributed systems and system software.
+- 🔭 I’m currently working on [Apache Uniffle](https://github.com/apache/incubator-uniffle).
+- ❤️ I enjoy being a member of the open-source community.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/cchung100m/count.svg" />
-</p>
+<!--
+**cchung100m/cchung100m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
