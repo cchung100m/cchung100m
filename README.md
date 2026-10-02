@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - I’m interested in machine learning, data engineering, and distributed systems.
-- I contribute to [Apache TVM]([https://github.com/apache/tvm](https://github.com/apache/tvm/pulls/cchung100m)) as an independent developer.
+- I contribute to [Apache TVM]([https://github.com/apache/tvm](https://github.com/apache/tvm/pulls/cchung100m) as an independent developer.
 <!--
 **cchung100m/cchung100m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
